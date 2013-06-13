@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "",
+  "sourceRoot": "",
+  "sources": [
+    "/assets/source_maps/app/assets/javascripts/views/new_entry_view.coffee"
+  ],
+  "names": [],
+  "mappings": "AAAA;CAAA,CAAA,CAAuB,CAAU,CAAL,CAAL,CAAhB,KAAP;CACE,CAAc,EAAd,OAAA,CAAA;CAAA,CACS,EAAT,EADA,CACA;CADA,CAGQ,CAAA,CAAR,EAAA,GAAQ;CACN,CAAoC,CAApC,CAAC,EAAD,IAAA,EAAA,EAAoC;CAApC,CACqB,CAArB,CAAC,EAAD,QAAA;CAFM,YAGN;CANF,IAGQ;CAJV,GAAuB;CAAvB"
+}
