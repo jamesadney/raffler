@@ -15,5 +15,3 @@
 /log/*.log
 /tmp
 
-# Source maps
-/public/assets/source_maps
