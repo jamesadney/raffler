@@ -16,4 +16,4 @@
 /tmp
 
 # Source maps
-*.map
+/public/assets/source_maps
